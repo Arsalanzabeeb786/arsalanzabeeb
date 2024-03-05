@@ -1,4 +1,4 @@
-# Deep learning Engineer | Computer Vision
+# Deeplearning Engineer | Computer Vision
 
 I am a self-taught deep learning Engineer and love to work on computer vision projects. I also share what I have learned by teaching Python and deep learning on YouTube & on a platform called Preply. I have taught for more than 190 hours and maintained a rating of 4.8. [Here is the link for that](https://preply.com/en/tutor/1586445).
 
