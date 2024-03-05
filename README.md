@@ -1,9 +1,8 @@
 # Arsalan Zabeeb
 *Deep learning Engineer with focus on computer vision*
 
-![Profile Picture](profile_picture.jpg)
 
-Deep learning Engineer with a specialization in computer vision. I also share my knowledge by teaching Python and deep learning on Youtube & on a platform called Preply. I have taught for more than 190 hours and maintained a rating of 4.8. [Here is the link for that](https://preply.com/en/tutor/1586445).
+Deep learning Engineer with a specialization in computer vision. I also share my knowledge by teaching Python and deep learning on YouTube & on a platform called Preply. I have taught for more than 190 hours and maintained a rating of 4.8. [Here is the link for that](https://preply.com/en/tutor/1586445).
 .
 
 ## My Skills
@@ -26,7 +25,7 @@ Deep learning Engineer with a specialization in computer vision. I also share my
 
 ### Education
 
-- Master's Degree in Materials Science and Engineering , Sungkyunkwan University South Korea
+- Master's Degree in Materials Science and Engineering, Sungkyunkwan University South Korea
 - Bachelor's Degree in Electronics, Comsats University Pakistan
 
 ## Projects
@@ -36,7 +35,7 @@ Deep learning Engineer with a specialization in computer vision. I also share my
 
 - **Technologies**: Python, NumPy, Pandas, Matplotlib
 - [Kaggle Project Link](https://www.kaggle.com/arsalanzabeeb/neural-net-from-scratch)
-- ![Project Image](placeholder_image.jpg)
+
 
 ## Experience
 
@@ -45,10 +44,10 @@ Deep learning Engineer with a specialization in computer vision. I also share my
 
 ## Contact Information
 
-- LinkedIn: [Arsalan Zabeeb](https://www.linkedin.com/in/arsalan-zabeeb/)
-- GitHub: [Arsalanzabeeb78](https://github.com/Arsalanzabeeb78)
-- Kaggle: [Arsalanzabeeb](https://www.kaggle.com/arsalanzabeeb)
-- YouTube: [NeuralNetLabs](https://youtube.com/@NeuralNetLabs)
-- Website: [arsalanzabeeb.tech](https://arsalanzabeeb.tech)
-- Email: admin@arsalanzabeeb.tech
-- Gmail: arsalanzabeeb786@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arsalan-zabeeb/)
+- [Email](admin@arsalanzabeeb.tech)
+- [Gmail](arsalanzabeeb786@gmail.com)
+- [GitHub](https://github.com/Arsalanzabeeb78)
+- [Kaggle](https://www.kaggle.com/arsalanzabeeb)
+- [YouTube](https://youtube.com/@NeuralNetLabs)
+
