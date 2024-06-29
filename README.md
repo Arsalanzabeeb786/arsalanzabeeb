@@ -43,7 +43,6 @@ I am a self-taught deep learning Engineer and love to work on computer vision pr
 ## Contact Information
 
 - [LinkedIn](https://www.linkedin.com/in/arsalan-zabeeb/)
-- [Email](admin@arsalanzabeeb.tech)
 - [Gmail](arsalanzabeeb786@gmail.com)
 - [GitHub](https://github.com/Arsalanzabeeb78)
 - [Kaggle](https://www.kaggle.com/arsalanzabeeb)
