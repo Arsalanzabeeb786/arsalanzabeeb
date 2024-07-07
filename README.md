@@ -32,8 +32,23 @@ I am a self-taught deep learning Engineer and love to work on computer vision pr
 **Summary**: This project involves constructing a neural network from scratch using Python libraries like NumPy and Pandas. The neural network is trained on the MNIST dataset, focusing on handwritten digits. It features an architecture with a single hidden layer and output layer, along with key components such as data preprocessing, neural network architecture, forward propagation, backward propagation, and loss function.
 
 **Technologies**: Python, NumPy, Pandas, Matplotlib
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Vehicle Tires Health Condition Detector
 
+**Summary**: To Enhance vehicle safety with our deep learning-based Vehicle Tires Health Condition Detector. This project classifies tire images as "perfect" or "defective" using transfer learning with MobileNet_v2, providing real-time detection through a Gradio web interface. The dataset, sourced from [Roboflow](https://roboflow.com/), is split into training, validation, and test sets. Experiments are tracked using [Weights and Biases](https://wandb.ai/).
+
+- [Try it on Huggingface Space](https://arsalanzabeeb-vehicle-tires-health-checkup.hf.space)
+- [GitHub Repository](https://github.com/Arsalanzabeeb786/vehicle-tire-condition-detection)
+- [Weights and Biases Report](https://wandb.ai/teamarsalan/Vehicle-Tyres-Health-Condition-Classification/reports/Vehicle-Tire-Condition-Detection-using-MobileNet_v2--Vmlldzo4NTc1NTk2?accessToken=qwmq85lbg62a2a20qhato5s7awc945m3turtghco1edmaca6smr100s0oy4ezjpt)
+
+## Key Features
+- **Binary Classification**: Classifies tire images as "perfect" or "defective."
+- **Transfer Learning**: Utilizes MobileNet_v2 for accurate predictions.
+- **Real-Time Detection**: Provides quick, reliable results.
+- **Web Interface**: Easy image upload and prediction via Gradio.
+
+**Technologies**: Keras ,Tensorflow, Python, NumPy, wandb, CNN, Transferlearning, Mobilenet_V2, Matplotlib
 
 ## Experience
 
