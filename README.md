@@ -32,7 +32,7 @@ I am a self-taught deep learning Engineer and love to work on computer vision pr
 **Summary**: This project involves constructing a neural network from scratch using Python libraries like NumPy and Pandas. The neural network is trained on the MNIST dataset, focusing on handwritten digits. It features an architecture with a single hidden layer and output layer, along with key components such as data preprocessing, neural network architecture, forward propagation, backward propagation, and loss function.
 
 **Technologies**: Python, NumPy, Pandas, Matplotlib
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ### Vehicle Tires Health Condition Detector
 
